@@ -619,7 +619,7 @@ h4,
 h5,
 h6 {
   margin: 10px 0;
-  font-family: 'Yesteryear', cursive;
+  font-family: 'Dancing Script', cursive;
   font-weight: bold;
   line-height: 20px;
   color: inherit;
@@ -3491,7 +3491,7 @@ input[type="submit"].btn.btn-mini {
   display: block;
   padding: 10px 20px 10px;
   margin-left: -20px;
-font-family: 'Yesteryear', cursive;
+font-family: 'Dancing Script', cursive;
   font-size: 20px;
   font-weight: 200;
   color: #777777;
@@ -5176,7 +5176,7 @@ a.thumbnail:focus {
 position: fixed;
 top: 60px;
   min-height: 25px;
-font-family: 'Yesteryear', cursive;
+font-family: 'Dancing Script', cursive;
 font-size: 20px;
   padding: 23px;
   margin-bottom: 20px;
